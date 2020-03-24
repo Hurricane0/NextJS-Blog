@@ -1,7 +1,7 @@
 # Developers-Today-Task
 A a simple MVP, which supports Posts and Comments features.
 
-## Demo: 
+## Demo: https://developers-today-task-nwa0nmaqg.now.sh/
 
 ## Installation
 
