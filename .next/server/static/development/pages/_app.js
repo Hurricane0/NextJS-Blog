@@ -333,21 +333,29 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
       lineNumber: 4,
       columnNumber: 5
     }
-  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+  }, __jsx("div", {
+    className: "container",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5,
       columnNumber: 7
     }
-  }, __jsx("a", {
-    className: "navbar-brand",
+  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6,
       columnNumber: 9
+    }
+  }, __jsx("a", {
+    className: "navbar-brand",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 11
     }
   }, "Posts")), __jsx("button", {
     className: "navbar-toggler",
@@ -360,16 +368,16 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 7
+      lineNumber: 9,
+      columnNumber: 9
     }
   }, __jsx("span", {
     className: "navbar-toggler-icon",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 9
+      lineNumber: 18,
+      columnNumber: 11
     }
   })), __jsx("div", {
     className: "collapse navbar-collapse",
@@ -377,42 +385,42 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19,
-      columnNumber: 7
+      lineNumber: 20,
+      columnNumber: 9
     }
   }, __jsx("ul", {
     className: "navbar-nav",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 9
+      lineNumber: 21,
+      columnNumber: 11
     }
   }, __jsx("li", {
     className: "nav-item",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21,
-      columnNumber: 11
+      lineNumber: 22,
+      columnNumber: 13
     }
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/posts/new",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22,
-      columnNumber: 13
+      lineNumber: 23,
+      columnNumber: 15
     }
   }, __jsx("a", {
     className: "nav-link",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 15
+      lineNumber: 24,
+      columnNumber: 17
     }
-  }, "Create"))))));
+  }, "Create")))))));
 });
 
 /***/ }),
