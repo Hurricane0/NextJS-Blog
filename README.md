@@ -1,5 +1,5 @@
-# Developers-Today-Task
-A a simple MVP, which supports Posts and Comments features.
+# Blog application
+A a simple MVP, created using Next.js, React.js, Redux and other different technologies, which supports Posts and Comments features.
 
 ## Demo: https://developers-today-task-nwa0nmaqg.now.sh/
 
