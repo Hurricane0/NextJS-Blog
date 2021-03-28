@@ -5,7 +5,7 @@ A a simple MVP, created using Next.js, React.js, Redux and other different techn
 
 ## Installation
 
-To run this project, install it locally using npm
+To run this project, install it locally using npm.
 
 ```
 $ npm install
